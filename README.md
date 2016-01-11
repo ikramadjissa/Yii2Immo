@@ -6,6 +6,7 @@ The project is YII2 php web application stocked on oracle 11g database. It is an
 -	Repair in case of damage
 -	Reform and cession 
 The application can manage the inventory, calculate different statistics and display the property historical. 
+The application is implemented in french language
 
 To excute the application, you need to have :
 - Oracle 11g SGBDR (import database.sql into it)
