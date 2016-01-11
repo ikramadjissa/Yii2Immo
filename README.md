@@ -8,9 +8,9 @@ The project is YII2 php web application stocked on oracle 11g database. It is an
 The application can manage the inventory, calculate different statistics and display the property historical. 
 
 To excute the application, you need to have :
-- Oracle 11g SGBDR
-- WampServer V2.5 or up
-- Navigator (google chrome, mozila or IE)
+- Oracle 11g SGBDR (import database.sql into it)
+- WampServer V2.5 or up (copy the whole project into www folder)
+- Navigator (google chrome, mozila or IE). Go to : http://localhost/yii2immo/advanced/frontend/controllers/SiteController.php
 
 For the authentification, you need to enter : 
 - User: admin
