@@ -9,7 +9,11 @@ The application can manage the inventory, calculate different statistics and dis
 The application is implemented in french language
 
 To excute the application, you need to have :
-- Oracle 11g SGBDR (import database.sql into it)
+- Oracle 11g SGBDR:
+          - create a database with the folllowing information: 
+          - user:immo_bdd            ; password: immo2015
+          - configure theses information in the following path: Yii2Immo\advanced\common\config\main-local.php
+          - import database.sql into it)
 - WampServer V2.5 or up (copy the whole project into www folder)
 - Navigator (google chrome, mozila or IE). Go to : http://localhost/yii2immo/advanced/frontend/controllers/SiteController.php
 
